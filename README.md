@@ -31,7 +31,7 @@ I'm a cybersecurity enthusiast currently pursuing a B.Tech in Computer Science E
   
 
  📫 How to Reach Me
-Feel free to reach out via [email](mailto:your-email@example.com) for collaboration, questions, or just to swap bad puns about cybersecurity!
+Feel free to reach out via [email](mailto:sreeram2k15@gmail.com) for collaboration, questions, or just to swap bad puns about cybersecurity!
 
  📜 My Projects
 Check out my repositories for some of the projects I've worked on:
