@@ -35,8 +35,7 @@ Feel free to reach out via [email](mailto:sreeram2k15@gmail.com) for collaborati
 
  📜 My Projects
 Check out my repositories for some of the projects I've worked on:
-- **[Project Name](link-to-your-project)**: Brief description (I promise it’s more exciting than watching paint dry).
-- **[Project Name](link-to-your-project)**: Brief description (still not as thrilling as a horse galloping away, but close!).
+- **[Network-Ninja](https://github.com/CelestialSentinel/Network-Ninja)**: A lightweight IP Scanner (I promise it’s more exciting than watching paint dry).
 
  🤝 Let's Collaborate!
 I'm always looking for opportunities to collaborate on exciting cybersecurity projects. If you have an idea or project in mind, don't hesitate to reach out—especially if it involves snacks!
